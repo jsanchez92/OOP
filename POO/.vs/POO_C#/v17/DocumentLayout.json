@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\OOP_C#\\POO_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{038D2990-13F1-48C3-A601-FD9735C0C260}|POO_C#.csproj|c:\\users\\usuario\\source\\repos\\oop_c#\\poo_c#\\clientes\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{038D2990-13F1-48C3-A601-FD9735C0C260}|POO_C#.csproj|solutionrelative:clientes\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D2990-13F1-48C3-A601-FD9735C0C260}|POO_C#.csproj|c:\\users\\usuario\\source\\repos\\oop_c#\\poo_c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038D2990-13F1-48C3-A601-FD9735C0C260}|POO_C#.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D2990-13F1-48C3-A601-FD9735C0C260}|POO_C#.csproj|C:\\Users\\USUARIO\\source\\repos\\OOP_C#\\POO_C#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{038D2990-13F1-48C3-A601-FD9735C0C260}|POO_C#.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\source\\repos\\Controladores\\ICrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\source\\repos\\Controladores\\CClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\source\\repos\\Controladores\\CEmpleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\source\\repos\\Modelos\\MPersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\source\\repos\\Modelos\\MClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\source\\repos\\Modelos\\MEmpleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\source\\repos\\Controladores\\Controladores.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\OOP_C#\\POO_C#\\Clientes\\FrmEmpleados.cs",
+              "RelativeDocumentMoniker": "Clientes\\FrmEmpleados.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\OOP_C#\\POO_C#\\Clientes\\FrmEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Clientes\\FrmEmpleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:08:34.061Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICrud.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Controladores\\ICrud.cs",
+              "RelativeDocumentMoniker": "..\\..\\Controladores\\ICrud.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Controladores\\ICrud.cs",
+              "RelativeToolTip": "..\\..\\Controladores\\ICrud.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:13:56.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CClientes.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Controladores\\CClientes.cs",
+              "RelativeDocumentMoniker": "..\\..\\Controladores\\CClientes.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Controladores\\CClientes.cs",
+              "RelativeToolTip": "..\\..\\Controladores\\CClientes.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:04:29.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Controladores\\CEmpleados.cs",
+              "RelativeDocumentMoniker": "..\\..\\Controladores\\CEmpleados.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Controladores\\CEmpleados.cs",
+              "RelativeToolTip": "..\\..\\Controladores\\CEmpleados.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:46:50.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\OOP_C#\\POO_C#\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\OOP_C#\\POO_C#\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:28:33.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\OOP_C#\\POO_C#\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\POO_C#\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\POO_C#\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:28:31.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MPersonas.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Modelos\\MPersonas.cs",
+              "RelativeDocumentMoniker": "..\\..\\Modelos\\MPersonas.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Modelos\\MPersonas.cs",
+              "RelativeToolTip": "..\\..\\Modelos\\MPersonas.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:27:15.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MClientes.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Modelos\\MClientes.cs",
+              "RelativeDocumentMoniker": "..\\..\\Modelos\\MClientes.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Modelos\\MClientes.cs",
+              "RelativeToolTip": "..\\..\\Modelos\\MClientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:24:36.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Modelos\\MEmpleados.cs",
+              "RelativeDocumentMoniker": "..\\..\\Modelos\\MEmpleados.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Modelos\\MEmpleados.cs",
+              "RelativeToolTip": "..\\..\\Modelos\\MEmpleados.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAewA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:18:52.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Controladores.csproj",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Controladores\\Controladores.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Controladores\\Controladores.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Controladores\\Controladores.csproj",
+              "RelativeToolTip": "..\\..\\Controladores\\Controladores.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T00:15:01.515Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

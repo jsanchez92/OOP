@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>POO_C_</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Empleados\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Controladores\Controladores.csproj" />
+    <ProjectReference Include="..\Modelos\Modelos.csproj" />
+  </ItemGroup>
+
+</Project>

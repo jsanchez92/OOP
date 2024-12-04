@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "POO_C#/1.0.0": {
+        "dependencies": {
+          "Controladores": "1.0.0",
+          "Modelos": "1.0.0"
+        },
+        "runtime": {
+          "POO_C#.dll": {}
+        }
+      },
+      "Controladores/1.0.0": {
+        "dependencies": {
+          "Modelos": "1.0.0"
+        },
+        "runtime": {
+          "Controladores.dll": {}
+        }
+      },
+      "Modelos/1.0.0": {
+        "runtime": {
+          "Modelos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Controladores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

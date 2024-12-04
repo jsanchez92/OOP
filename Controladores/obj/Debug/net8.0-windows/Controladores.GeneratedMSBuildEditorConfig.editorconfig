@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Controladores
-build_property.ProjectDir = C:\Users\USUARIO\source\repos\Controladores\
+build_property.ProjectDir = C:\Users\USUARIO\source\repos\OOP_C#\Controladores\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
