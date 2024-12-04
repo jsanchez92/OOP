@@ -1,0 +1,15 @@
+C:\Users\USUARIO\source\repos\Controladores\bin\Debug\net8.0-windows\Controladores.deps.json
+C:\Users\USUARIO\source\repos\Controladores\bin\Debug\net8.0-windows\Controladores.dll
+C:\Users\USUARIO\source\repos\Controladores\bin\Debug\net8.0-windows\Controladores.pdb
+C:\Users\USUARIO\source\repos\Controladores\bin\Debug\net8.0-windows\Modelos.dll
+C:\Users\USUARIO\source\repos\Controladores\bin\Debug\net8.0-windows\Modelos.pdb
+C:\Users\USUARIO\source\repos\Controladores\obj\Debug\net8.0-windows\Controladores.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Controladores\obj\Debug\net8.0-windows\Controladores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Controladores\obj\Debug\net8.0-windows\Controladores.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Controladores\obj\Debug\net8.0-windows\Controladores.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Controladores\obj\Debug\net8.0-windows\Controladores.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Controladores\obj\Debug\net8.0-windows\Controla.588FD378.Up2Date
+C:\Users\USUARIO\source\repos\Controladores\obj\Debug\net8.0-windows\Controladores.dll
+C:\Users\USUARIO\source\repos\Controladores\obj\Debug\net8.0-windows\refint\Controladores.dll
+C:\Users\USUARIO\source\repos\Controladores\obj\Debug\net8.0-windows\Controladores.pdb
+C:\Users\USUARIO\source\repos\Controladores\obj\Debug\net8.0-windows\ref\Controladores.dll
