@@ -16,6 +16,11 @@ namespace POO_C_
 
             cliente.Nombre = "Juan";
             cliente.Apelliodos = "perez";
+            cliente.OtrosIngresos = 2000;
+
+            int OtrosIngresos = 2000;
+            cliente.AumentarOtrosIngresos(OtrosIngresos);
+
 
             MEmpleados empleado = new MEmpleados()          // 1
             {
@@ -32,7 +37,46 @@ namespace POO_C_
 
             //CClientes Cliente = new CClientes();
             //Cliente.Add(cliente);
+            PruebasDeMetodos();
+
 
         }
+
+        int valor = 0;
+        void PruebasDeMetodos()
+        {
+
+            //Métodos con retorno y métodos void.
+            //Parámetros: por valor, por referencia y opcionales.
+            //existen 2 formas de pasar valores por referencia
+            // 1 con la palabra ref
+            // 2 es con la palabra out
+
+            int valor1 = 3;
+            int valor2;
+            alterarValor(valor);
+            //MessageBox.Show(valor.ToString());
+            alterarValorPorReferencia(ref valor1);
+            //MessageBox.Show(valor1.ToString());
+
+            alterarValorPorReferenciaOut(out valor2);
+            MessageBox.Show(valor2.ToString());
+        }
+
+        void alterarValor(int dinero)
+        {
+            valor = dinero * 2;
+        }
+        void alterarValorPorReferencia(ref int valor1)
+        {
+            valor1 = valor1 * 2;
+        }
+
+        void alterarValorPorReferenciaOut(out int valor2)
+        {
+            int result = 3 * 5;
+            valor2 = result;
+        }
+
     }
 }

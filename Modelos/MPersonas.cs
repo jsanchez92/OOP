@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Modelos
 {
-    public class MClientes
+    public class MPersonas
     {
 
         //Propiedades o Atributos
